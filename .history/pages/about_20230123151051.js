@@ -89,7 +89,7 @@ src={'vector/mentor.svg'}
 <button className={styles.nextbtnone}>Next</button>
 <button className={styles.nextbtntwo}>Next</button>
 </div>
-
+<button className={styles.back}> <Link href="index.js">Back</Link></button>
 </main>
 </>
     )
