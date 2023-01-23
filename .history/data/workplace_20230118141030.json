@@ -1,0 +1,26 @@
+[
+    {
+    "employeeNumber": "E2345",
+    "firstName": "Joe",
+    "gpa": 3.2,
+    "role": "HTML",
+    "section": "Frontend Developer",
+    "startDate": 2021
+},
+{
+    "employeeNumber": "E6789",
+    "firstName": "Alice",
+    "gpa": 3.9,
+    "role": "Next.js",
+    "section": "Frontend Developer",
+    "startDate": 2020
+},
+{
+    "employeeNumber": "E1011",
+    "firstName": "Jane",
+    "gpa": 3.2,
+    "role": "Javascript",
+    "section": "Frontend Developer",
+    "startDate": 2022
+}
+]

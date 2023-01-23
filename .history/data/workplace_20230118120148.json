@@ -1,0 +1,26 @@
+[
+    {
+    "studentNumber": "A0007890",
+    "firstName": "Person 3",
+    "gpa": 3.2,
+    "department": "Computing",
+    "degree": "Applied Software Development Certificate",
+    "graduted": 2018
+},
+{
+    "studentNumber": "A0007828",
+    "firstName": "Person 4",
+    "gpa": 3.9,
+    "department": "Computing",
+    "degree": "Computer Systems Diploma",
+    "graduted": 2021
+},
+{
+    "studentNumber": "A0003425",
+    "firstName": "Person 5",
+    "gpa": 3.2,
+    "department": "Computing",
+    "degree": "Applied Computer Information Systems Certificate",
+    "graduted": 2021
+}
+]

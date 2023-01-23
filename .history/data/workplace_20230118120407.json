@@ -1,0 +1,26 @@
+[
+    {
+    "employeeNumber": "E2345",
+    "firstName": "Joe",
+    "gpa": 3.2,
+    "department": "Computing",
+    "degree": "Applied Software Development Certificate",
+    "graduted": 2018
+},
+{
+    "employeeNumber": "E6789",
+    "firstName": "Alice",
+    "gpa": 3.9,
+    "department": "Computing",
+    "degree": "Computer Systems Diploma",
+    "graduted": 2021
+},
+{
+    "employeeNumber": "E1011",
+    "firstName": "Jane",
+    "gpa": 3.2,
+    "department": "Computing",
+    "degree": "Applied Computer Information Systems Certificate",
+    "graduted": 2021
+}
+]

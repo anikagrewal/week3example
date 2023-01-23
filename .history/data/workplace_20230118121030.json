@@ -1,0 +1,26 @@
+[
+    {
+    "employeeNumber": "E2345",
+    "firstName": "Joe",
+    "gpa": 3.2,
+    "role": "User Researcher",
+    "department": "UI/UX Design",
+    "graduted": 2018
+},
+{
+    "employeeNumber": "E6789",
+    "firstName": "Alice",
+    "gpa": 3.9,
+    "role": "Photoshop",
+    "department": "Graphic Design",
+    "graduted": 2021
+},
+{
+    "employeeNumber": "E1011",
+    "firstName": "Jane",
+    "gpa": 3.2,
+    "role": "Javascript",
+    "department": "Frontend Devleoper",
+    "graduted": 2021
+}
+]
